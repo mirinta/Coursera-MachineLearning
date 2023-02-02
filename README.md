@@ -1,2 +1,2 @@
 # Coursera-MachineLearning
-Notes and exercices.
+Notes and exercise.
